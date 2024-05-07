@@ -171,6 +171,7 @@ def main():
 
         elif opcao == "r":
             lista_operadoras()
+            input("Informe o número de telefone (somente números): ")
             valor = float(input("Informe o valor da recarga: "))
 
 
