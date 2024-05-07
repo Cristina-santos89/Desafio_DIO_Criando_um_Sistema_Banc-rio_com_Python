@@ -1,5 +1,5 @@
 # Desafio DIO Criando um sistema bancario com Python
-Repositório para fazer a contribuição no projeto da DIO criando um sistema bancário com_python.
+Repositório para fazer a contribuição no projeto da DIO sistema bancário com_python.
 
 # Objetivo:
 Aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas.
